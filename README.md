@@ -26,7 +26,7 @@
 ## 📷 Gallery
 
 <div align="center">
-  <img src="./Screenshot 2025-05-11 011815.png" alt="Fractal Example 1" width="400">
+  <img src="./Screenshot 2025-05-110.png.png" alt="Fractal Example 1" width="400">
   <img src="./Screenshot 2025-011728.png" alt="Fractal Example 2" width="400">
 </div>
 
